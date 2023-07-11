@@ -17,7 +17,7 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/impacta.png"
+              src="/next.svg"
               alt="Vercel Logo"
               className={styles.vercelLogo}
               width={100}
